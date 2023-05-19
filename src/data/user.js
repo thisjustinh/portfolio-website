@@ -24,7 +24,7 @@ const INFO = {
 	about: {
 		title: "I’m Justin Huang.",
 		description:
-			"I'm a CS and Statistics graduate from the Schreyer Honors College at Penn State. I've worked on a variety of projects hosted on GitHub over the years and I'm proud of the progress I've made. In particular, I'm familiar with convolutional and graph neural networks, fairness, data modeling, time series analysis, and more. Although I've worked with GANs before, I hope to learn more about generative AI, like LLMs and audio creation.",
+			"I'm a CS and Statistics graduate from the Schreyer Honors College at Penn State, with a cumulative GPA of 3.8. I've worked on a variety of projects hosted on GitHub over the years and I'm proud of the progress I've made. In particular, I'm familiar with convolutional and graph neural networks, fairness, data modeling, time series analysis, and more. Although I've worked with GANs before, I hope to learn more about generative AI, like LLMs and audio creation.",
 	},
 
 	articles: {
@@ -59,6 +59,15 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png",
 			linkText: "View Project",
 			link: "https://superbia-vice.shinyapps.io/ESGBoost/",
+		},
+
+		{
+			title: "rsPCA-AManPG",
+			description:
+				"Matrix approximation using singular value decomposition can be used with the AManPG algorithm to induce closed-form subproblem solutions and preserve a guarantee of convergence, thus creating a cleaner algorithm for sparse PCA.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png", 
+			linkText: "View Project",
+			link: "https://github.com/thisjustinh/rsPCA-AManPG"
 		},
 
 		{
