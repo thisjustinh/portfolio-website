@@ -37,7 +37,7 @@ const INFO = {
 		{
 			title: "FairChurn",
 			description:
-				"Using an adversarial neural network, we can debias customer churn predictions with respect to age, proven with a 90% decreas in bias. Made with Python and PyTorch, with data from Kaggle.",
+				"Using an adversarial neural network, we can debias customer churn predictions with respect to age, proven with a 90% decrease in bias. Made with Python and PyTorch, with data from Kaggle.",
 			logo: "https://raw.githubusercontent.com/thisjustinh/FairChurn/main/FairChurn_Logo.png",
 			linkText: "View Project",
 			link: "https://github.com/thisjustinh/FairChurn",
