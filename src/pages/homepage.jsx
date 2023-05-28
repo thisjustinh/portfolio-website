@@ -190,6 +190,10 @@ const Homepage = () => {
 							<div className="homepage-works">
 								<Works />
 							</div>
+							
+							<div className="homepage-works">
+								<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="08fcb7a3-47c5-4a91-8231-8723238e4816" data-share-badge-host="https://www.credly.com"></div>
+							</div>
 						</div>
 
 						<div className="page-footer">
