@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Justin Huang. All Rights Reserved. Based on Reactfolio.
+						© 2024 Justin Huang. All Rights Reserved. Based on Reactfolio.
 					</div>
 				</div>
 			</div>

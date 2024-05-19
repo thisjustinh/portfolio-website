@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Data Scientist / ML Engineer",
+		title: "ML Engineer",
 		description:
-			"I am a data scientist at Rockwell Automation working in machine learning and generative AI. In the industrial automation space, we work a lot with signals and hardware lifecycles, so creating tools that can leverage predictive maintenance and streamline workflows presents lots of values. In my previous experience, I have worked a lot with machine learning on the side and in research, mostly in the fields of fairness, CV, and graphs. Usually I like Python and PyTorch for creating machine learning solutions, use R for statistical work, and otherwise focus on Java, C, and SQL for other cases.",
+			"I am a machine learning engineer working on incorporating new technologies into business use cases. Currently at Rockwell Automation, I am a data scientist: in the industrial automation space, we work a lot with signals and hardware lifecycles, so creating AI/ML tools that can leverage predictive maintenance and streamline workflows presents lots of value. In my previous experience, I have worked a lot with machine learning on the side and in research, mostly in the fields of fairness, CV, and graphs. Usually I like Python and PyTorch for creating machine learning solutions, use R for statistical work, and otherwise focus on Java, C, and SQL for other cases.",
 	},
 
 	about: {
 		title: "I’m Justin Huang.",
 		description:
-			"I am a data scientist at Rockwell Automation working in machine learning and generative AI. In the industrial automation space, we work a lot with signals and hardware lifecycles, so creating tools that can leverage predictive maintenance and streamline workflows presents lots of values. In my previous experience, I have worked a lot with machine learning on the side and in research, mostly in the fields of fairness, CV, and graphs. Usually I like Python and PyTorch for creating machine learning solutions, use R for statistical work, and otherwise focus on Java, C, and SQL for other cases.",
+			"I am a machine learning engineer working on incorporating new technologies into business use cases. Currently at Rockwell Automation, I am a data scientist: in the industrial automation space, we work a lot with signals and hardware lifecycles, so creating AI/ML tools that can leverage predictive maintenance and streamline workflows presents lots of value. In my previous experience, I have worked a lot with machine learning on the side and in research, mostly in the fields of fairness, CV, and graphs. Usually I like Python and PyTorch for creating machine learning solutions, use R for statistical work, and otherwise focus on Java, C, and SQL for other cases.",
 	},
 
 	articles: {
