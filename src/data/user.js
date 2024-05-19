@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Data Scientist & Dev",
+		title: "Data Scientist / ML Engineer",
 		description:
-			"I am a developer of new technologies and data scientist looking for new problems to solve. I love applying different forms of machine learning and deep learning to create real-world solutions. My work has taught me a lot about using Python and PyTorch, R, database management, and other skills. I hope to apply these skills into other fields.",
+			"I am a data scientist at Rockwell Automation working in machine learning and generative AI. In the industrial automation space, we work a lot with signals and hardware lifecycles, so creating tools that can leverage predictive maintenance and streamline workflows presents lots of values. In my previous experience, I have worked a lot with machine learning on the side and in research, mostly in the fields of fairness, CV, and graphs. Usually I like Python and PyTorch for creating machine learning solutions, use R for statistical work, and otherwise focus on Java, C, and SQL for other cases.",
 	},
 
 	about: {
 		title: "I’m Justin Huang.",
 		description:
-			"I'm a CS and Statistics graduate from the Schreyer Honors College at Penn State, with a cumulative GPA of 3.8. I've worked on a variety of projects hosted on GitHub over the years and I'm proud of the progress I've made. In particular, I'm familiar with convolutional and graph neural networks, fairness, data modeling, time series analysis, and more. Although I've worked with GANs before, I hope to learn more about generative AI, like LLMs and audio creation.",
+			"I am a data scientist at Rockwell Automation working in machine learning and generative AI. In the industrial automation space, we work a lot with signals and hardware lifecycles, so creating tools that can leverage predictive maintenance and streamline workflows presents lots of values. In my previous experience, I have worked a lot with machine learning on the side and in research, mostly in the fields of fairness, CV, and graphs. Usually I like Python and PyTorch for creating machine learning solutions, use R for statistical work, and otherwise focus on Java, C, and SQL for other cases.",
 	},
 
 	articles: {

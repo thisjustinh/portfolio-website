@@ -1,6 +1,6 @@
 {
 	"name": "thisjustinh-portfolio",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Personal portfolio template built using React, based on reactfolio",
 	"author": {
 		"name": "Justin Huang",
@@ -22,7 +22,7 @@
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-router-dom": "^6.11.1",
-		"react-scripts": "5.0.1",
+		"react-scripts": "^5.0.1",
 		"styled-components": "^5.3.10",
 		"web-vitals": "^2.1.4"
 	},
